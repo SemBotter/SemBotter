@@ -15,6 +15,7 @@ Learning C++ using the internet and hoping for working code.
 \
 _Not much here yet, but don't worry; all that's important is here already._
  
+![weee](https://komarev.com/ghpvc/?username=SemBotter)
 
 
 <!--
