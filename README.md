@@ -4,10 +4,9 @@
 > Truman Burbank, The Truman Show (1998)
 
 \
-Cybersecurity student
-Python programmer
+Hobbyist C, C++, C# and Python programmer
 
-Learning C++ using the internet and hoping for working code.
+Interested in computers, because of their complexity and the ability to make a magical brick with electricity behave according to instructions I have given it.
 \
 \
 \
@@ -17,18 +16,3 @@ _Not much here yet, but don't worry; all that's important is here already._
  
 ![weee](https://komarev.com/ghpvc/?username=SemBotter)
 
-
-<!--
-**SemBotter/SemBotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
